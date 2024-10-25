@@ -5,3 +5,5 @@ The goal of this blackbelt is to be able to use the keyboard arrow keys to move 
 2. The down arrow will move the image down
 3. The right arrow will move the image right
 4. The left arrow will move the image left
+
+The blackbelt will use the same background image and character image as "Wednesday's Adventure"
